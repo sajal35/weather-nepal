@@ -1,10 +1,10 @@
 # weatherapp
 
-A new Flutter project.
+Flutter demo project for weather
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a demo project regarding how to show weather of nepal via Rest API
 
 A few resources to get you started if this is your first Flutter project:
 
